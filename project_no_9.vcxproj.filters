@@ -21,10 +21,60 @@
     <ClCompile Include="project_no_9_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="project_no_9_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project_no_9_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="project_no_9_1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="project_no_9_2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="project_no_9_3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="project_no_9_4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="project_no_9_6.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="project_no_9_7.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="project_no_9_8.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="project_no_9_9.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="project_no_9_5.h">
+      <Filter>헤더 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>

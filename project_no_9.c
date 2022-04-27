@@ -1,5 +1,14 @@
 ﻿#include <stdio.h>
 #include "project_no_9_1.h"
+#include "project_no_9_2.h"
+#include "project_no_9_3.h"
+#include "project_no_9_4.h"
+#include "project_no_9_5.h"
+#include "project_no_9_6.h"
+#include "project_no_9_7.h"
+#include "project_no_9_8.h"
+#include "project_no_9_9.h"
+
 
 int main()
 {
@@ -10,7 +19,7 @@ int main()
 	printf("%p %p %p \n", &a, &d, &c);
 	*/
 
-	main_9_1();
+	main_9_9();
 
 	return 0;
 }
